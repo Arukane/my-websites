@@ -1,0 +1,24 @@
+#saluto {
+  color: red;
+}
+
+#saluto2 {
+  color: green;
+  font-size: 20px;
+}
+
+header{
+  background-color: lightgrey;
+}
+
+#titleHR {
+  border-top: 5px solid red;
+}
+
+hr {
+  border-top: 2px solid red;
+}
+
+#intro {
+  text-align: center;
+}
